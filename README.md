@@ -2,7 +2,8 @@
 A set of tutorials/ demos intended to learn angular.
 
 ## Useful commands
-- `nave use 20.9.0` - To switch to node version 20.8.0
+- `nave install 20.9.0` - To install node version 20.9.0
+- `nave use 20.9.0` - To switch to node version 20.9.0
 - `npm install -g @angular/cli` - To install angular cli globally
 - `ng new <project-name>` - To create a new angular project
 - `ng serve` - To run the angular project
@@ -13,3 +14,5 @@ A set of tutorials/ demos intended to learn angular.
 - `ng generate module <module-name>` - To generate a new module
 - `ng generate class <class-name>` - To generate a new class
 - `ng generate interface <interface-name>` - To generate a new interface
+- `npm install -g json-server` - To install json-server globally
+- `json-server --watch db.json` - To start json-server
